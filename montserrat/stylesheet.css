@@ -1,0 +1,74 @@
+@font-face {
+    font-family: 'montserratregular';
+        font-weight: 300;
+    font-style: normal;
+    src: url('fonts/Montserrat-Regular-webfont.eot');
+    src: url('fonts/Montserrat-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Montserrat-Regular-webfont.woff2') format('woff2'),
+         url('fonts/Montserrat-Regular-webfont.woff') format('woff'),
+         url('fonts/Montserrat-Regular-webfont.ttf') format('truetype'),
+         url('fonts/Montserrat-Regular-webfont.svg#montserratregular') format('svg');
+
+}
+
+
+@font-face {
+    font-family: 'montserratblack';
+    src: url('fonts/Montserrat-Black-webfont.eot');
+    src: url('fonts/Montserrat-Black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Montserrat-Black-webfont.woff2') format('woff2'),
+         url('fonts/Montserrat-Black-webfont.woff') format('woff'),
+         url('vMontserrat-Black-webfont.ttf') format('truetype'),
+         url('fonts/Montserrat-Black-webfont.svg#montserratblack') format('svg');
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'montserratbold';
+        font-weight: 500;
+    font-style: normal;
+    src: url('fonts/Montserrat-Bold-webfont.eot');
+    src: url('fonts/Montserrat-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Montserrat-Bold-webfont.woff2') format('woff2'),
+         url('fonts/Montserrat-Bold-webfont.woff') format('woff'),
+         url('fonts/Montserrat-Bold-webfont.ttf') format('truetype'),
+         url('fonts/Montserrat-Bold-webfont.svg#montserratbold') format('svg');
+
+}
+
+
+
+
+@font-face {
+    font-family: 'montserrathairline';
+    src: url('fonts/Montserrat-Hairline-webfont.eot');
+    src: url('fonts/Montserrat-Hairline-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Montserrat-Hairline-webfont.woff2') format('woff2'),
+         url('fonts/Montserrat-Hairline-webfont.woff') format('woff'),
+         url('fonts/Montserrat-Hairline-webfont.ttf') format('truetype'),
+         url('fonts/Montserrat-Hairline-webfont.svg#montserrathairline') format('svg');
+    font-weight: 100;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'montserratlight';
+    src: url('fonts/Montserrat-Light-webfont.eot');
+    src: url('fonts/Montserrat-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Montserrat-Light-webfont.woff2') format('woff2'),
+         url('fonts/Montserrat-Light-webfont.woff') format('woff'),
+         url('fonts/Montserrat-Light-webfont.ttf') format('truetype'),
+         url('fonts/Montserrat-Light-webfont.svg#montserratlight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+
+}
